@@ -1,5 +1,5 @@
 <h3>This repository is an activity from my system development course of my school.</h3><br>
-This is an activity to train and methods overloading. The class/object used on this project is the Temperature class ("Temperatura") and Menu, so there, you can convert temperatures celsius to fahrenheit and the opposite too.<br>
+This is an activity to train methods overloading. The class/object used on this project is the Temperature class ("Temperatura") and Menu, so there, you can convert temperatures celsius to fahrenheit and the opposite too.<br>
 
 
 The technology used on this project was Java
